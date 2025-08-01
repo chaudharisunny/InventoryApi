@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "samsung",
+    "category": "smartphone",
+    "model": "z-foled",
+    "price": "1,50,000",
+    "details": "this phone is trands on young generation "
+  },
+  {
+    "id": 2,
+    "name": "samsung washing machine",
+    "category": "home apliance",
+    "model": "front load washing machine ",
+    "price": "38,000",
+    "details": "this washing machine is semi automatic"
+  },
+  {
+    "id": 3,
+    "name": "apple",
+    "category": "smartphone",
+    "model": "i-phone14",
+    "price": "52,000",
+    "details": "avilable  in desert titanium and natural taitanium ultimate iphone "
+  },
+  {
+    "id": 4,
+    "name": "bajaj",
+    "category": "home apliance",
+    "model": "grill sandwitch toaster",
+    "price": "1,322",
+    "details": "Non-stick coated grill plates for fuss-free sandwich making and cleaning"
+  },
+  {
+    "id": 5,
+    "name": "Redmi ",
+    "category": "smartphone",
+    "model": "A5 4G LTE",
+    "price": "1,50,000",
+    "details": "this phone is trands on young generation "
+  },
+  {
+    "id": 6,
+    "name": "samsung",
+    "price": "30000",
+    "details": "best phone in mid range",
+    "model": "A55",
+    "category": "smartphone"
+  },
+  {
+    "id": 7,
+    "name": "tshirt",
+    "price": "500",
+    "details": "blue tshirt round neck blue color",
+    "model": "round neck",
+    "category": "cloths"
+  },
+  {
+    "id": 8,
+    "name": "white shirt",
+    "price": "2500",
+    "details": "white cotton tshirt white color",
+    "model": "H.M shirts  ",
+    "category": "cloths"
+  },
+  {
+    "id": 9,
+    "name": "trouser",
+    "price": "1700",
+    "details": "black cotton trouser ",
+    "model": "H.M cotton casual trouser",
+    "category": "cloths"
+  },
+  {
+    "id": 10,
+    "name": "polo tshirt",
+    "price": "1500",
+    "details": "white tshirt U.S polo ",
+    "model": "U.S POLO cotton white tshirt",
+    "category": "cloths"
+  },
+  {
+    "id": 11,
+    "name": "gray trouser",
+    "price": "2000",
+    "details": "black trouser nike ",
+    "model": "nike cotton black trouser",
+    "category": "cloths"
+  }
+]
