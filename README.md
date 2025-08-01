@@ -1,10 +1,10 @@
 # InventoryApi
 
-| Description         | URL Example                                                 |
-|---------------------|-------------------------------------------------------------|
-| Get all products    | `/api/products`                                             |
-| Category filter     | `/api/products?category=mobile`                             |
-| Price range filter  | `/api/products?minPrice=10000&maxPrice=30000`               |
-| Search              | `/api/products?search=samsung`                              |
-| Pagination          | `/api/products?page=2&limit=3`                              |
+| Description         | URL Example                                                              |
+|---------------------|--------------------------------------------------------------------------|
+| Get all products    | `/api/v1/inventory_list`                                                 |
+| Category filter     | `/api/v1/inventory_list?category=smartphone`                             |
+| Price range filter  | `/api/v1/inventory_list?minPrice=10000&maxPrice=30000`                   |
+| Search              | `/api/v1/inventory_list?search=samsung`                                  |
+| Pagination          | `/api/v1/inventory_list?page=2&limit=3`                                  |
 
